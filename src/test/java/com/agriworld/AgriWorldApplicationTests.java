@@ -1,10 +1,10 @@
-package Config.Server.Config.Server;
+package com.agriworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigServerApplicationTests {
+class AgriWorldApplicationTests {
 
 	@Test
 	void contextLoads() {
